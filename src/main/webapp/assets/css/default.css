@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+}
+
+* {
+    font-family: 'Ubuntu Light', 'sans-serif' !important;
+    border-radius: 1px !important;
+}
+
+body {
+    width: 100%;
+    background-color: rgba(33, 33, 33, 0.8);
+}
+
+.white-color {
+    color: white;
+}
+
+.padding-top {
+    padding-top: 20px;
+}
+
+.margin-top {
+    margin-top: 50px !important;
+}
+
+.well {
+	overflow-x:scroll;
+	
+}
+
+thead {
+	text-align:center;
+}
+
+td {
+  white-space: nowrap;
+  width: 1px !important;
+}
+
+.center {
+	text-align:center !important;
+}
+
+.anchor {
+	text-decoration: underline;
+	color: black;
+}
+  
